@@ -1,0 +1,9 @@
+.container {
+  background: red;
+}
+.container-fluid {
+  background: blue;
+}
+.col-12 {
+  border: 1px solid black;
+}
